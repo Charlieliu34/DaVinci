@@ -2,8 +2,9 @@
 
 ## 一、MC回测模版
 
-![](./assets/1.1.MC回测模板.jpg)
+![](.gitbook/assets/1.1.mc-hui-ce-mo-ban.jpg)
 
 ## 二、MC 与 评价大师 实盘模板
 
-![](./assets/1.2MC+评价大师实盘模板.jpg)
+![](.gitbook/assets/1.2mc+-ping-jia-da-shi-shi-pan-mo-ban.jpg)
+
